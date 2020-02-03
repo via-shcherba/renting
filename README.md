@@ -8,5 +8,5 @@
 ![GitHub Logo](https://github.com/via-shcherba/renting/blob/master/hollway.png)
 ![GitHub Logo](https://github.com/via-shcherba/renting/blob/master/hollway.jpg)
 ![GitHub Logo](https://github.com/via-shcherba/renting/blob/master/kitchen.png)
-![GitHub Logo](https://github.com/via-shcherba/renting/blob/master/kitchen1.png)
+![GitHub Logo](https://github.com/via-shcherba/renting/blob/master/kitchen2.png)
 ![GitHub Logo](https://github.com/via-shcherba/renting/blob/master/toilet.png)
